@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="PracticeGitHub" />
+        <module name="June24" />
       </profile>
     </annotationProcessing>
   </component>
